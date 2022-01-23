@@ -33,7 +33,7 @@ ul li a:hover{
     background: linear-gradient(rgba(133, 22, 22, 0.288), rgba(133, 22, 22, 0.288));
 }
 
-/* Explore Events Section */
+/* About us Section */
 .explore-now-btn{
     border-radius: 15px;
 }
@@ -43,3 +43,58 @@ ul li a:hover{
 .explore-events i:hover{
     display: inline-block;
 } */
+
+/* Packages Section */
+.packages h2{
+    font-size: 1.95em;
+}
+ul li{
+    list-style: none;
+    font-size: 1.1em;
+    text-transform: capitalize;
+}
+ul li:hover{    
+    font-size: 1.05em;
+    color: #192a56;
+    cursor: pointer;
+}
+ul li i{
+    color: #a29bfe;
+}
+.choose-plan-btn{
+    border-radius: 22px;
+}
+.package-3{
+    background-color: #0984e3;
+    background-image: url(icons/watermark.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 25px;
+    color: white;
+    box-shadow: 0 10px 20px #74b9ff;
+}
+.package-3 ul li i{
+    color: #dfe6e9;
+}
+.packages button{
+    box-shadow: 5px 5px 15px #b2bec3;
+}
+.package-3 button{
+    color: white;
+    border: 1px solid white;
+    box-shadow: none;
+}
+.package-3 button:hover{
+    background-color: white;
+    color: #0984e3;
+}
+.badge{
+    top: 0;
+    left: 70%;
+    padding: 5% 10%;
+    font-size: 15px;
+}
+.badge:hover{
+    background-color: brown !important;
+    cursor: pointer;
+}
