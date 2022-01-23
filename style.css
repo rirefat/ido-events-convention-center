@@ -99,6 +99,19 @@ ul li i{
     cursor: pointer;
 }
 
+
+/* Customer Review Section */
+.review-card{
+    border: 1px solid transparent;
+    border-radius: 8px;
+    box-shadow: 5px 5px 15px grey;
+    padding: 10% 8%;
+}
+.review-card:hover{
+    background-color: #d4eaff4b;
+    cursor: pointer;
+}
+
 /* Footer Section */
 footer{
     background-color: #04030f;    
