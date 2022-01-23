@@ -5,6 +5,10 @@
 body{
     margin: 0;
 }
+.highlighted-text{
+    font-weight: 700;
+    color: brown;
+}
 
 /* Navbar Section */
 .brand-title {
@@ -43,6 +47,12 @@ ul li a:hover{
 .explore-events i:hover{
     display: inline-block;
 } */
+
+/* Toast Section */
+.toast{
+    border-left: 10px solid #0984e3;
+    background-color: #ecf0f1;
+}
 
 /* Packages Section */
 .packages h2{
@@ -110,6 +120,11 @@ ul li i{
 .review-card:hover{
     background-color: #d4eaff4b;
     cursor: pointer;
+}
+
+/* FAQ Section */
+.accordion-item h2 button{
+    font-weight: 700;
 }
 
 /* Footer Section */
