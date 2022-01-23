@@ -32,3 +32,14 @@ ul li a:hover{
 .carousel-item {
     background: linear-gradient(rgba(133, 22, 22, 0.288), rgba(133, 22, 22, 0.288));
 }
+
+/* Explore Events Section */
+.explore-now-btn{
+    border-radius: 15px;
+}
+/* .explore-events .right-part i{
+    display: none;
+}
+.explore-events i:hover{
+    display: inline-block;
+} */
