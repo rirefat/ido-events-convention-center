@@ -44,12 +44,7 @@ ul li a:hover{
 .explore-now-btn{
     border-radius: 15px;
 }
-/* .explore-events .right-part i{
-    display: none;
-}
-.explore-events i:hover{
-    display: inline-block;
-} */
+
 
 /* Toast Section */
 .toast{
@@ -125,21 +120,6 @@ ul li i{
     cursor: pointer;
 }
 
-/* Photo Gallery Section */
-/* .photo-gallery img{
-    /* width: 15%; */
-    /* cursor: pointer; */
-    /* border-radius: 10px; */
-    
-/* } */ 
-/* .photo-gallery>div{
-    overflow: hidden;
-} */
-/* .photo-gallery img:hover{
-    transform: scale(1.05);
-    transition: transform 0.8s;
-} */
-
 
 /* FAQ Section */
 .accordion-item h2 button{
@@ -170,7 +150,6 @@ ul li i{
     font-size: 20px;
     border: none;
     border-radius: 5px;
-    /* background-color: #0984e3; */
     cursor: pointer;
     transition: 0.4s;
 }
